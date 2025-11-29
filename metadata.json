@@ -1,0 +1,5 @@
+{
+  "name": " StyleMorph AI",
+  "description": "A virtual try-on application powered by Gemini. Upload a photo of yourself and a photo or description of the clothes you want to wear to see a generated preview.",
+  "requestFramePermissions": []
+}
